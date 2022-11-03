@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\bin\Debug\net6.0\desafio01.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\bin\Debug\net6.0\desafio01.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\bin\Debug\net6.0\desafio01.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\bin\Debug\net6.0\desafio01.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\bin\Debug\net6.0\desafio01.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\refint\desafio01.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\desafio01.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\desafio01\obj\Debug\net6.0\ref\desafio01.dll
