@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\bin\Debug\net6.0\aula03.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\bin\Debug\net6.0\aula03.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\bin\Debug\net6.0\aula03.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\bin\Debug\net6.0\aula03.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\bin\Debug\net6.0\aula03.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\refint\aula03.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\aula03.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula03\obj\Debug\net6.0\ref\aula03.dll
