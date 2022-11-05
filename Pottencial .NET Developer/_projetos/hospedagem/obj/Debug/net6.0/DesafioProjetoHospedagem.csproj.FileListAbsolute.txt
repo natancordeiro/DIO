@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\hospedagem\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
