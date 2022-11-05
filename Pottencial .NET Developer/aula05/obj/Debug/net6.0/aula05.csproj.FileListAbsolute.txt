@@ -1,0 +1,17 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\aula05.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\aula05.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\aula05.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\aula05.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\aula05.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.csproj.CopyComplete
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\refint\aula05.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\aula05.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\aula05\obj\Debug\net6.0\ref\aula05.dll

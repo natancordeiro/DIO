@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "etZXwptQti1aY8R2sfWWpRbonXyGl7RMFo3zll/vjxbXI8Rrk22I+5h5kliWPYyWJmdwB108apkrpD/YlpGXAA==",
+  "dgSpecHash": "AhzAdPglaiG3PAz5nNypcNz3jKD13oLlFI583szz1o7jOORNiQ4pM36pXfPh1LuNnZFXllZg75IrqWcIk9ocPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula05\\aula05.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onata\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
