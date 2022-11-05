@@ -1,4 +1,5 @@
-﻿// CRIANDO ARRAYS
+﻿using System;
+// CRIANDO ARRAYS
 
 int[] arrayInteiros = new int[4];
 

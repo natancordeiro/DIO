@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\Aula01\\Aula01.csproj": {}
+    "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula01\\aula01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\Aula01\\Aula01.csproj": {
+    "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula01\\aula01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\Aula01\\Aula01.csproj",
-        "projectName": "Aula01",
-        "projectPath": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\Aula01\\Aula01.csproj",
+        "projectUniqueName": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula01\\aula01.csproj",
+        "projectName": "aula01",
+        "projectPath": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula01\\aula01.csproj",
         "packagesPath": "C:\\Users\\onata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\Aula01\\obj\\",
+        "outputPath": "C:\\Users\\onata\\OneDrive\\Documentos\\GitHub\\DIO\\Pottencial .NET Developer\\aula01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\onata\\AppData\\Roaming\\NuGet\\NuGet.Config",
