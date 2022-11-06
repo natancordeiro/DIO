@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\DIO\Pottencial .NET Developer\_projetos\smartphone\obj\Debug\net6.0\ref\DesafioPOO.dll
